@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   <h1>
-    Hey there, I'm [Your Name]!
+    Hey there, I'm Mehdi!
   </h1>
   <h3>
     I turn coffee into code and ideas into intelligent applications.
@@ -17,7 +17,7 @@
 - 🐍 My weapon of choice is **Python**, but I'm always eager to learn new technologies.
 - 👨‍💻 Currently, I'm diving deeper into `[A specific ML topic like 'Reinforcement Learning' or 'LLMs']` and honing my Django skills.
 - 🤝 Looking to collaborate on open-source projects related to AI and web development.
-- 📫 How to reach me: `[Your Email or LinkedIn Profile URL]`
+- 📫 How to reach me: ``
 
 ---
 
