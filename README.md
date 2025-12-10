@@ -15,9 +15,9 @@
 
 - 🧠 I'm passionate about **Machine Learning**, **Data Science**, and building scalable **Backend Systems**.
 - 🐍 My weapon of choice is **Python**, but I'm always eager to learn new technologies.
-- 👨‍💻 Currently, I'm diving deeper into `[A specific ML topic like 'Reinforcement Learning' or 'LLMs']` and honing my Django skills.
+- 👨‍💻 Currently, I'm diving deeper into **LLMs** and honing my Django skills.
 - 🤝 Looking to collaborate on open-source projects related to AI and web development.
-- 📫 How to reach me: ``
+- 📫 How to reach me: 
 
 ---
 
@@ -28,4 +28,40 @@ Here are a few of the technologies I've been working with recently:
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> |
-| **ML/AI** | <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for
+| **ML/AI** | <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> |
+| **Tools & Platforms** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<div align="center">
+
+<!-- GitHub Stats -->
+![meytiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=meytiii&show_icons=true&theme=tokyonight)
+
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meytiii&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://github.com/meytiii/meytiii/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="[Your LinkedIn Profile URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="[[Your Twitter/X Profile URL]](https://x.com/mkplayzbk)">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+</p>
+
