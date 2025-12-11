@@ -34,34 +34,4 @@ Here are a few of the technologies I've been working with recently:
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
-<div align="center">
-
-<!-- GitHub Stats -->
-![meytiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=meytiii&show_icons=true&theme=tokyonight)
-
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meytiii&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://github.com/meytiii/meytiii/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
-</div>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/mkplayzbk">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-</p>
 
