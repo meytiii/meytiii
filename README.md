@@ -56,7 +56,7 @@ Here are a few of the technologies I've been working with recently:
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[Your LinkedIn Profile URL]">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
