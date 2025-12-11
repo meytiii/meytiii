@@ -60,7 +60,7 @@ Here are a few of the technologies I've been working with recently:
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="[[Your Twitter/X Profile URL]](https://x.com/mkplayzbk)">
+  <a href="https://x.com/mkplayzbk">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 </p>
