@@ -55,8 +55,3 @@ Here are a few of the technologies I've been working with recently:
 | **Tools** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
 
 ---
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/meytiii/meytiii/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
