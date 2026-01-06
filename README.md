@@ -55,11 +55,6 @@
 </div>
 
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=meytiii&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
-
 ---
 
 ### 🛠️ My Tech Stack
