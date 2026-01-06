@@ -5,7 +5,7 @@
   <h3>I turn coffee into code and ideas into intelligent applications.</h3>
   
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=meytiii&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=meytiii&color=9d7cd8" alt="Profile Views" />
 </div>
 
 ---
