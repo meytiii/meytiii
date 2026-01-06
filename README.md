@@ -34,13 +34,24 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
+  <!-- Profile Summary -->
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  
+  <br/>
+  
+  <!-- Languages & Stats -->
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meytiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meytiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- Stats Graph -->
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats Graph" />
+</div>
 
-[![Streak Stats](https://streak-stats.demolab.com?user=meytiii&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
+<div align="center">
+  <h3>🐍 Contributions</h3>
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 
