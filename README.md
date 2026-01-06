@@ -31,13 +31,18 @@
 
 ---
 
-### [...](asc_slot://start-slot-5)📊 My GitHub Stats
+### 📊 My GitHub Stats
+
 <div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=meytiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meytiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meytiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meytiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak Stats](https://streak-stats.demolab.com?user=meytiii&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
+
 
 <div align="center">
   <!-- Streak Stats -->
