@@ -10,14 +10,6 @@
 
 ---
 
-### 🚀 About Me
-- 🧠 I'm passionate about **Machine Learning**, **Data Science**, and building scalable **Backend Systems**.
-- 🐍 My weapon of choice is **Python**, but I'm always eager to learn new technologies.
-- 👨‍💻 Currently, I'm diving deeper into **LLMs** and honing my Django skills.
-- 🤝 Looking to collaborate on open-source projects related to AI and web development.
-
----
-
 ### 📊 My GitHub Stats
 
 <div align="center">
