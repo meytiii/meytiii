@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   <h1>Hey there!</h1>
-  <h3>I turn coffee into code and ideas into intelligent applications.</h3>
+  <h3>I turn coffee into code and ideas into intelligent applications. (Until my tokens run out)</h3>
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=meytiii&color=9d7cd8" alt="Profile Views" />
