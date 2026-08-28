@@ -1,48 +1,58 @@
-<!-- Header -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-  <h1>Hey there!</h1>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=meytiii&color=9d7cd8" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b27,24283b,7aa2f7,bb9af7&height=180&section=header&text=Hey%20there,%20I'm%20Mahdi%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
----
-
-### 📊 My GitHub Stats
-
 <div align="center">
-  <!-- Profile Summary -->
-  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <a href="https://github.com/meytiii">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer+%26+Tech+Enthusiast+%E2%9C%A8;Always+exploring+and+building...;" alt="Typing SVG" />
+  </a>
   
   <br/>
   
-  <!-- Languages & Stats -->
-  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages" />
-  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits" />
-
-  <br/>
-
-  <!-- Stats Graph -->
-  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats Graph" />
+  <!-- Profile Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=meytiii&label=Profile%20Views&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Profile Views" />
+    <a href="https://github.com/meytiii?tab=followers"><img src="https://img.shields.io/github/followers/meytiii?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b26" alt="Followers" /></a>
+    <a href="https://github.com/meytiii"><img src="https://img.shields.io/badge/GitHub-meytiii-7dcfff?style=flat-square&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub Profile" /></a>
+  </p>
 </div>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <h3>🐍 Contributions</h3>
-  <img src="https://raw.githubusercontent.com/meytiii/meytiii/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <!-- Profile Overview -->
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="98%" />
+  
+  <br/><br/>
+  
+  <!-- Languages & Commits -->
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="48.5%" />
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="48.5%" />
+
+  <br/><br/>
+
+  <!-- Stats & Productive Time -->
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats Graph" width="48.5%" />
+  <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48.5%" />
 </div>
 
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meytiii/meytiii/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meytiii/meytiii/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/meytiii/meytiii/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
-Here are a few of the technologies I've been working with recently:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> |
-| **ML/AI** | <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> |
-| **Tools** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b27,24283b,7aa2f7,bb9af7&height=80&section=footer" width="100%" alt="Footer Banner" />
+</div>
