@@ -1,6 +1,6 @@
 <!-- Cyber Header Wave Banner matching PFP Neon Aesthetics -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=08090C,0f172a,0284c7,00f2fe,7c3aed&height=200&section=header&text=MeyTiii%20⚡&fontSize=42&fontColor=00f2fe&animation=fadeIn&fontAlignY=36&desc=%3E_%20Building%20Intelligent%20Systems%20%7C%20Code%20%7C%20Innovate%20%3C/%3E&descAlignY=58&descAlign=50&descSize=15" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00f2fe,100:7c3aed&height=180&section=header&text=MeyTiii&fontSize=42&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20|%20Machine%20Learning%20%26%20Backend&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -13,14 +13,14 @@
 
   <!-- Neon Glowing Cyber Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=meytiii&label=%3E_%20PROFILE%20VIEWS&style=for-the-badge&color=00f2fe&labelColor=08090C" alt="Profile Views" />
-    <a href="https://github.com/meytiii?tab=followers"><img src="https://img.shields.io/github/followers/meytiii?label=%3C%2F%3E_FOLLOWERS&style=for-the-badge&logo=github&logoColor=00f2fe&color=0284c7&labelColor=08090C" alt="Followers" /></a>
-    <a href="https://github.com/meytiii"><img src="https://img.shields.io/badge/STATUS-%E2%9A%A1_SYSTEMS_ONLINE-7c3aed?style=for-the-badge&labelColor=08090C" alt="Status" /></a>
+    <img src="https://komarev.com/ghpvc/?username=meytiii&color=00f2fe&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" />
+    <a href="https://github.com/meytiii?tab=followers"><img src="https://img.shields.io/github/followers/meytiii?label=FOLLOWERS&style=flat-square&logo=github&logoColor=00f2fe&color=0284c7&labelColor=0f172a" alt="Followers" /></a>
+    <a href="https://github.com/meytiii"><img src="https://img.shields.io/badge/STATUS-SYSTEMS_ONLINE-7c3aed?style=flat-square&labelColor=0f172a" alt="Status" /></a>
   </p>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=08090C,00f2fe,7c3aed,08090C&height=3&section=header" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:00f2fe,100:7c3aed&height=3&section=header" width="100%" alt="Divider" />
 </p>
 
 ### ⚡ 01. SYSTEM ANALYTICS & REPO MATRIX
@@ -45,7 +45,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=08090C,0284c7,00f2fe,08090C&height=3&section=header" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:00f2fe,100:7c3aed&height=3&section=header" width="100%" alt="Divider" />
 </p>
 
 ### 🐍 02. CONTRIBUTION ACTIVITY MATRIX
@@ -62,5 +62,5 @@
 
 <!-- Footer Wave Banner matching Cyberpunk Neon Palette -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=08090C,0f172a,0284c7,00f2fe,7c3aed&height=90&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00f2fe,100:7c3aed&height=90&section=footer" width="100%" alt="Footer Banner" />
 </div>
