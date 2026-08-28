@@ -1,29 +1,32 @@
-<!-- Header Banner -->
+<!-- Cyber Header Wave Banner matching PFP Neon Aesthetics -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b27,24283b,7aa2f7,bb9af7&height=180&section=header&text=Hey%20there,%20I'm%20Mahdi%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=08090C,0f172a,0284c7,00f2fe,7c3aed&height=200&section=header&text=MeyTiii%20⚡&fontSize=42&fontColor=00f2fe&animation=fadeIn&fontAlignY=36&desc=%3E_%20Building%20Intelligent%20Systems%20%7C%20Code%20%7C%20Innovate%20%3C/%3E&descAlignY=58&descAlign=50&descSize=15" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
+  <!-- Monospace Cyber Typing Animation -->
   <a href="https://github.com/meytiii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer+%26+Tech+Enthusiast+%E2%9C%A8;Always+exploring+and+building...;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=%3E_+Hello+World%2C+I'm+Mahdi+(MeyTiii)+%F0%9F%91%8B;%3C%2F%3E+Machine+Learning+%26+Deep+Learning+Engineer;%3E_+Backend+Architect+%26+Python+Specialist+%E2%9A%A1;%3C%2F%3E+Designing+Scalable+%26+Intelligent+Solutions...;" alt="Cyber Typing SVG" />
   </a>
-  
-  <br/>
-  
-  <!-- Profile Badges -->
+
+  <br/><br/>
+
+  <!-- Neon Glowing Cyber Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=meytiii&label=Profile%20Views&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Profile Views" />
-    <a href="https://github.com/meytiii?tab=followers"><img src="https://img.shields.io/github/followers/meytiii?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b26" alt="Followers" /></a>
-    <a href="https://github.com/meytiii"><img src="https://img.shields.io/badge/GitHub-meytiii-7dcfff?style=flat-square&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub Profile" /></a>
+    <img src="https://komarev.com/ghpvc/?username=meytiii&label=%3E_%20PROFILE%20VIEWS&style=for-the-badge&color=00f2fe&labelColor=08090C" alt="Profile Views" />
+    <a href="https://github.com/meytiii?tab=followers"><img src="https://img.shields.io/github/followers/meytiii?label=%3C%2F%3E_FOLLOWERS&style=for-the-badge&logo=github&logoColor=00f2fe&color=0284c7&labelColor=08090C" alt="Followers" /></a>
+    <a href="https://github.com/meytiii"><img src="https://img.shields.io/badge/STATUS-%E2%9A%A1_SYSTEMS_ONLINE-7c3aed?style=for-the-badge&labelColor=08090C" alt="Status" /></a>
   </p>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=08090C,00f2fe,7c3aed,08090C&height=3&section=header" width="100%" alt="Divider" />
+</p>
 
-### 📊 GitHub Analytics
+### ⚡ 01. SYSTEM ANALYTICS & REPO MATRIX
 
 <div align="center">
-  <!-- Profile Overview -->
+  <!-- Profile Overview Card -->
   <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="98%" />
   
   <br/><br/>
@@ -39,9 +42,13 @@
   <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48.5%" />
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=08090C,0284c7,00f2fe,08090C&height=3&section=header" width="100%" alt="Divider" />
+</p>
+
+### 🐍 02. CONTRIBUTION ACTIVITY MATRIX
 
 <div align="center">
   <picture>
@@ -51,8 +58,9 @@
   </picture>
 </div>
 
----
+<br/>
 
+<!-- Footer Wave Banner matching Cyberpunk Neon Palette -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b27,24283b,7aa2f7,bb9af7&height=80&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=08090C,0f172a,0284c7,00f2fe,7c3aed&height=90&section=footer" width="100%" alt="Footer Banner" />
 </div>
