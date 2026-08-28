@@ -1,12 +1,14 @@
-<!-- Cyber Header Wave Banner matching PFP Neon Aesthetics -->
+<!-- Cyber Header Banner matching PFP Neon Aesthetics -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00f2fe,100:7c3aed&height=180&section=header&text=MeyTiii&fontSize=42&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20|%20Machine%20Learning%20%26%20Backend&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg" width="100%" alt="MeyTiii Header Banner" />
 </div>
+
+<br/>
 
 <div align="center">
   <!-- Monospace Cyber Typing Animation -->
   <a href="https://github.com/meytiii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=%3E_+Hello+World%2C+I'm+Mahdi+(MeyTiii)+%F0%9F%91%8B;%3C%2F%3E+Machine+Learning+%26+Deep+Learning+Engineer;%3E_+Backend+Architect+%26+Python+Specialist+%E2%9A%A1;%3C%2F%3E+Designing+Scalable+%26+Intelligent+Solutions...;" alt="Cyber Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=%3E_+Hello+World%2C+I'm+Mahdi+(MeyTiii)+%F0%9F%91%8B;%3C%2F%3E+Machine+Learning+%26+Deep+Learning+Engineer;%3E_+Backend+Architect+%26+Python+Specialist+%E2%9A%A1;%3C%2F%3E+Designing+Scalable+%26+Intelligent+Solutions...;" alt="Cyber Typing SVG" />
   </a>
 
   <br/><br/>
@@ -20,7 +22,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:00f2fe,100:7c3aed&height=3&section=header" width="100%" alt="Divider" />
+  <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
 ### ⚡ 01. SYSTEM ANALYTICS & REPO MATRIX
@@ -45,7 +47,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:00f2fe,100:7c3aed&height=3&section=header" width="100%" alt="Divider" />
+  <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
 ### 🐍 02. CONTRIBUTION ACTIVITY MATRIX
@@ -60,7 +62,7 @@
 
 <br/>
 
-<!-- Footer Wave Banner matching Cyberpunk Neon Palette -->
+<!-- Footer matching Cyberpunk Neon Palette -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:00f2fe,100:7c3aed&height=90&section=footer" width="100%" alt="Footer Banner" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
 </div>

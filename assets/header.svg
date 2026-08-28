@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090C" />
+      <stop offset="50%" stop-color="#0D121F" />
+      <stop offset="100%" stop-color="#060709" />
+    </linearGradient>
+
+    <!-- Neon Cyan Gradient -->
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="50%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <!-- Cyber Violet Gradient -->
+    <linearGradient id="violetGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+
+    <!-- Glowing Filters -->
+    <filter id="neonGlowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur1" />
+      <feGaussianBlur stdDeviation="10" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+      font-weight: 900;
+      font-size: 46px;
+      letter-spacing: 4px;
+      fill: #FFFFFF;
+    }
+    .subtitle-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-weight: 500;
+      font-size: 14px;
+      letter-spacing: 3px;
+      fill: #38BDF8;
+    }
+    .prompt-chip {
+      font-family: 'Fira Code', monospace;
+      font-weight: 700;
+      font-size: 13px;
+      fill: #00F2FE;
+    }
+    .circuit-line {
+      stroke-dasharray: 6 3;
+      animation: circuitFlow 20s linear infinite;
+    }
+    @keyframes circuitFlow {
+      from { stroke-dashoffset: 200; }
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+
+  <!-- Card Frame -->
+  <rect width="846" height="196" x="2" y="2" rx="14" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5" />
+  
+  <!-- Outer Glow Border Top & Bottom -->
+  <path d="M 16 2 L 834 2" stroke="url(#cyanGrad)" stroke-width="2" filter="url(#softGlow)" />
+  <path d="M 50 198 L 800 198" stroke="url(#violetGrad)" stroke-width="1.5" opacity="0.8" />
+
+  <!-- Circuit Traces Left -->
+  <g stroke="#00F2FE" stroke-width="1.2" fill="none" opacity="0.45" filter="url(#softGlow)">
+    <path d="M 25 35 L 90 35 L 120 65 L 170 65" />
+    <circle cx="170" cy="65" r="3" fill="#00F2FE" />
+    <path d="M 25 165 L 110 165 L 145 130 L 200 130" />
+    <circle cx="200" cy="130" r="3" fill="#00F2FE" />
+    <path d="M 40 100 L 85 100 L 105 120 L 130 120" />
+    <circle cx="130" cy="120" r="2.5" fill="#00F2FE" />
+  </g>
+
+  <!-- Circuit Traces Right -->
+  <g stroke="#7C3AED" stroke-width="1.2" fill="none" opacity="0.5" filter="url(#softGlow)">
+    <path d="M 825 35 L 760 35 L 730 65 L 680 65" />
+    <circle cx="680" cy="65" r="3" fill="#7C3AED" />
+    <path d="M 825 165 L 740 165 L 705 130 L 650 130" />
+    <circle cx="650" cy="130" r="3" fill="#7C3AED" />
+    <path d="M 810 100 L 765 100 L 745 120 L 720 120" />
+    <circle cx="720" cy="120" r="2.5" fill="#7C3AED" />
+  </g>
+
+  <!-- Terminal Chips Left & Right -->
+  <g transform="translate(32, 24)">
+    <rect width="44" height="22" rx="5" fill="#0F172A" stroke="#00F2FE" stroke-width="1" opacity="0.9" />
+    <text x="22" y="15" text-anchor="middle" class="prompt-chip">&gt;_</text>
+  </g>
+
+  <g transform="translate(774, 24)">
+    <rect width="44" height="22" rx="5" fill="#0F172A" stroke="#7C3AED" stroke-width="1" opacity="0.9" />
+    <text x="22" y="15" text-anchor="middle" class="prompt-chip" style="fill: #A855F7;">&lt;/&gt;</text>
+  </g>
+
+  <!-- Central Title Section -->
+  <g transform="translate(425, 88)" text-anchor="middle">
+    <!-- Glow Underlay -->
+    <text x="0" y="0" class="title-text" style="fill: #00F2FE; opacity: 0.7;" filter="url(#neonGlowCyan)">MeyTiii</text>
+    <!-- Foreground Text -->
+    <text x="0" y="0" class="title-text">MeyTiii</text>
+    
+    <!-- Accent Underline -->
+    <path d="M -120 16 L 120 16" stroke="url(#cyanGrad)" stroke-width="2.5" filter="url(#softGlow)" />
+    <circle cx="-120" cy="16" r="3" fill="#00F2FE" />
+    <circle cx="120" cy="16" r="3" fill="#7C3AED" />
+
+    <!-- Subtitle -->
+    <text x="0" y="44" class="subtitle-text">&gt;_ BUILDING INTELLIGENT SYSTEMS • ML &amp; BACKEND &lt;/&gt;</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 14" width="100%" height="14">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#08090C" stop-opacity="0" />
+      <stop offset="15%" stop-color="#0284C7" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00F2FE" stop-opacity="1" />
+      <stop offset="85%" stop-color="#7C3AED" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#08090C" stop-opacity="0" />
+    </linearGradient>
+    <filter id="divGlow" x="-10%" y="-100%" width="120%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <path d="M 0 7 L 850 7" stroke="url(#divGrad)" stroke-width="1.8" filter="url(#divGlow)" />
+  <circle cx="425" cy="7" r="3.5" fill="#00F2FE" filter="url(#divGlow)" />
+  <circle cx="212" cy="7" r="2" fill="#0284C7" />
+  <circle cx="638" cy="7" r="2" fill="#7C3AED" />
+</svg>
