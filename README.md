@@ -25,8 +25,6 @@
   <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
-### ⚡ 01. SYSTEM ANALYTICS & REPO MATRIX
-
 <div align="center">
   <!-- Profile Overview Card -->
   <img src="https://raw.githubusercontent.com/meytiii/meytiii/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="98%" />
@@ -49,8 +47,6 @@
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </p>
-
-### 🐍 02. CONTRIBUTION ACTIVITY MATRIX
 
 <div align="center">
   <picture>
