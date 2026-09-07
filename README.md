@@ -6,6 +6,28 @@
 <br/>
 
 <div align="center">
+  <img src="./assets/code.jpeg" width="380" alt="The Programmer, like the Poet" />
+
+  <br/><br/>
+
+  <p align="center">
+    <em>&ldquo;The programmer, like the poet, works only slightly removed from pure thought-stuff.<br/>
+    He builds his castles in the air, from air, creating by exertion of the imagination.&rdquo;</em>
+  </p>
+  <p align="center">
+    &mdash; <strong>Frederick P. Brooks Jr.</strong>, <i>The Mythical Man-Month</i>
+  </p>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+<br/>
+
+<div align="center">
   <!-- Monospace Cyber Typing Animation -->
   <a href="https://github.com/meytiii">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=%3E_+Hello+World%2C+I'm+Mahdi+(MeyTiii)+%F0%9F%91%8B;%3C%2F%3E+Machine+Learning+%26+Deep+Learning+Engineer;%3E_+Backend+Architect+%26+Python+Specialist+%E2%9A%A1;%3C%2F%3E+Designing+Scalable+%26+Intelligent+Solutions...;" alt="Cyber Typing SVG" />
