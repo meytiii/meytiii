@@ -123,6 +123,6 @@
     <circle cx="120" cy="16" r="3" fill="#7C3AED" />
 
     <!-- Subtitle -->
-    <text x="0" y="44" class="subtitle-text">&gt;_ BUILDING INTELLIGENT SYSTEMS • ML &amp; BACKEND &lt;/&gt;</text>
+    <!--<text x="0" y="44" class="subtitle-text">&gt;_ BUILDING INTELLIGENT SYSTEMS • ML &amp; BACKEND &lt;/&gt;</text> -->
   </g>
 </svg>
